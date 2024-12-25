@@ -1,2 +1,2 @@
 # Incident-Analysis
-Generated an Incident analysis report for a Multimedia Company affected DDOS attack using the NIST and CSF Framework 
+Analysed a DDOS attack on a multimedia company with NIST Cybersecurity Framework to help create a better secuity posture.
